@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Humberto
 
 - 📚 Sou estudante do curso de Engenharia de Computação na Universidade de Brasília (UnB)
+- 🛠 Técnico em Manutenção e Suporte em Informática
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Humberto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
