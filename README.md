@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="vue" style="vertical-align:top; margin:4px">
