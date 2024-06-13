@@ -21,21 +21,30 @@
 </a>
 </div>
 
-### Languages and Tools
+### Languages and Frameworks
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">    
   <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:4px">
   <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
   <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
-
+### Misc
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="svg/dev/misc/ai.svg" alt="ai" 
+  style="vertical-align:top; margin:4px">    
+  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="VScode" style="vertical-align:top; margin:4px">
+</p>
+</p>
 ### Stats
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HumbertoMesquita&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HumbertoMesquita&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HumbertoMesquita&theme=nord_dark) |
