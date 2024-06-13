@@ -1,21 +1,8 @@
 <div align="center">
-   <h1>Hi, I'm" Humberto</a>
+   <h1>Hi, I'm Humberto</a>
    </h1> 
 </div>
 
-
-<!-- 
-<p align='center'>
-  <a href="https://wanghley.com"><img height="30" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/wanghley/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/wanghley"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://wanghley.medium.com/"><img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
- </p>
-<p align="center">
-<a href="https://visitor-badge.glitch.me/badge?page_id=wanghley.wanghley"> <img alt="wanghley github" src="https://komarev.com/ghpvc/?username=wanghley&label=👥+visitors&color=blue"> </a>
- </p>
- -->
-  
 <br />
 <p align="center">
   <h3>Software developer, researcher & computer engineer.</h3>
@@ -32,15 +19,6 @@
  
  - Full Stack Developer passionate about creating efficient and scalable solutions.
 
-
-<!--  
- <br /><br />
-
-<div align="center">
-<a href="https://github.com/wanghley">
-   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghley&theme=dark&hide_border=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghley&layout=compact&langs_count=5&theme=dark&count_private=true"/>
-   <!--&exclude_repo=references-->
 </a>
 </div>
 
@@ -70,27 +48,3 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-
-
- <!-- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br /> -->
