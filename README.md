@@ -10,9 +10,9 @@
  
  - Informatics technician graduated from the Ministério da educação 
    
- - Computer engineering student at Universidade de Brasília
+ - Computer engineering student at the Universidade de Brasília
 
- - Focusing on security and system performance
+ - Focus on security and system performance
  
  - Data Analyst with skills in SQL and data visualization
  
