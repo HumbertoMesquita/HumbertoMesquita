@@ -26,13 +26,12 @@
    
  - Computer engineering student at Universidade de Brasília
 
- - 🛸 Into Health tech and application of artificial intelligence
+ - Focusing on security and system performance
  
- - I do full-stack and a bit of everything :heart:
+ - Data Analyst with skills in SQL and data visualization
  
- - All about living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=20>](https://instagram.com/wanghley)
+ - Full Stack Developer passionate about creating efficient and scalable solutions.
+
 
 <!--  
  <br /><br />
