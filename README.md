@@ -25,11 +25,11 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="svg/dev/languages/python.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">    
+  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/css3.svg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="cloud" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="datascience" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="aws" style="vertical-align:top; margin:4px">
