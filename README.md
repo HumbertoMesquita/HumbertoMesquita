@@ -7,7 +7,6 @@
 <p align="center">
   <h3>Software developer, researcher & computer engineer.</h3>
 </p>
-
  
  - Informatics technician graduated from the Ministério da educação 
    
